@@ -1,0 +1,10 @@
+[package]
+name = "sloprsc"
+version = "0.0.1"
+edition = "2021"
+authors = ["0xktn"]
+description = "bootstrap compiler for slop programming language"
+
+[dependencies]
+# minimal deps for v0.0.1
+# llvm-sys = "170" # later
