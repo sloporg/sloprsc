@@ -1,0 +1,8 @@
+[package]
+name = "sloprsc"
+version = "0.0.1-dev"
+edition = "2021"
+authors = ["0xktn"]
+description = "slop compiler v0.0.1-dev"
+
+[dependencies]
